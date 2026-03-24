@@ -13,3 +13,7 @@
 - à renseigner sur le fichier prop, ip bridge et username(me contacté pour comment avoir le username).
 
 - les régles: allume/éteindre les lumiéres, change de couleur des ampoules, allume/éteindre les prises
+
+- régle la luminosité à 10% 20% 30% .....100%.
+
+- deux fonctions mode: SunRise, et DiscoMode:
