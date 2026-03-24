@@ -1,6 +1,6 @@
 # A.V.A.T.A.R-plugin-PhilipsHue
 
-- nécessité le majodom AVATAR + bridge philips hue 2.0 2eme genération
+- nécessité le majrodom AVATAR + bridge philips hue 2.0 2eme genération
 
 - c'est un basique plugin
 
