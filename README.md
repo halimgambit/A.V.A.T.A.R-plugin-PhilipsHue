@@ -16,4 +16,4 @@
 
 - régle la luminosité à 10% 20% 30% .....100%.
 
-- deux fonctions mode: SunRise, et DiscoMode:
+- deux fonctions mode: SunRise, et DiscoMode.
